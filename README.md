@@ -31,7 +31,7 @@ This system learns those latent states from log returns, rolling volatility, and
 ## Installation
 
 ```bash
-git clone https://github.com/jespermathiasnielsen/Latent-Regime-Detection-Bot.git
+git clone https://github.com/ctrl-jesper/Latent-Regime-Detection-Bot.git
 cd Latent-Regime-Detection-Bot
 pip install -r requirements.txt
 ```
@@ -149,4 +149,4 @@ Contributions are welcome. Please open an issue to discuss proposed changes befo
 
 MIT — see [LICENSE](LICENSE) for details.
 
-**Author:** [Jesper Mathias Nielsen](https://github.com/jespermathiasnielsen)
+**Author:** [Jesper Mathias Nielsen](https://github.com/ctrl-jesper)
